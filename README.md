@@ -13,7 +13,7 @@
 - 💻 Interested in **C++, OpenGL, Data Structures & Algorithms**
 - 🌱 Currently learning **Advanced C++ and Graphics Programming**
 - 🎮 Building projects like **Catch The Egg Game**
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **mahfujurshuvo1717@gmail.com**
 
 ---
 
