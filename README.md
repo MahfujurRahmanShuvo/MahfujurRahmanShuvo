@@ -49,6 +49,12 @@
 
 ---
 
+
+📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=MahfujurRahmanShuvo&show_icons=true&theme=tokyonight"/>
+
+
 ## 🔥 GitHub Streak
 
 <p align="center">
